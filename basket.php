@@ -54,7 +54,6 @@ else {
 //i.e. the product name,the price, the selected quantity and the subtotal 
 
 echo "<table style='border: solid black 1px'>";; 
-echo "<tr>";
 echo "<th>Product Name</th>";
 echo "<th>Price</th>";
 echo "<th>Qunatity</th>";
